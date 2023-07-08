@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dieusx
+- 👋 Hi, I’m @Dieusx call me D
 - 👀 I’m interested in Automation & Cybersecurity
 - 🌱 I’m currently learning Python and Powershell
 - 💞️ I’m looking to collaborate on anything
